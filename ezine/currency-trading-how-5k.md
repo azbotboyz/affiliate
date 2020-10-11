@@ -229,5 +229,3 @@ https://ezinearticles.com/search/?q=how&scat=Finance%3ACurrency-Trading&expert=&
 https://ezinearticles.com/search/?q=how&scat=Finance%3ACurrency-Trading&expert=&mtype=all&sopt=title&wordopt=&wordcount=&index=5725
 https://ezinearticles.com/search/?q=how&scat=Finance%3ACurrency-Trading&expert=&mtype=all&sopt=title&wordopt=&wordcount=&index=5750
 https://ezinearticles.com/search/?q=how&scat=Finance%3ACurrency-Trading&expert=&mtype=all&sopt=title&wordopt=&wordcount=&index=5775
-https://ezinearticles.com/search/?q=how&scat=Finance%3ACurrency-Trading&expert=&mtype=all&sopt=title&wordopt=&wordcount=&index=5800
-https://ezinearticles.com/search/?q=how&scat=Finance%3ACurrency-Trading&expert=&mtype=all&sopt=title&wordopt=&wordcount=&index=5825
